@@ -1,5 +1,4 @@
-﻿
-        Console.WriteLine($"Lê Anh Quốc MSV: 2415053122234");
+﻿        Console.WriteLine("Lê Anh Quốc MSV: 2415053122234");
         List<int> danhSach = new List<int>();
         Console.Write("Nhap so luong phan tu: ");
         int n = int.Parse(Console.ReadLine());
@@ -9,7 +8,6 @@
             Console.Write($"Nhap phan tu thu {i + 1}: ");
             danhSach.Add(int.Parse(Console.ReadLine()));
         }
-
 
         int soLuongChan = danhSach.Count(x => x % 2 == 0);
 
