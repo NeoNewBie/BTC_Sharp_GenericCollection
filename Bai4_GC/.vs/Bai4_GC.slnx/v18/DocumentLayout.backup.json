@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai4_GC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{038814EA-55BD-4FED-84A8-0B64E7C22902}|Bai4_GC\\Bai4_GC.csproj|d:\\bai4_gc\\bai4_gc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038814EA-55BD-4FED-84A8-0B64E7C22902}|Bai4_GC\\Bai4_GC.csproj|solutionrelative:bai4_gc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai4_GC\\Bai4_GC\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4_GC\\Program.cs",
+              "ToolTip": "D:\\Bai4_GC\\Bai4_GC\\Program.cs",
+              "RelativeToolTip": "Bai4_GC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:50:49.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
