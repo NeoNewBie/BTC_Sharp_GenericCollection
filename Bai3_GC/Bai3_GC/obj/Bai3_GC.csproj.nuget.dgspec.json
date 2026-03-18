@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bai3_GC\\Bai3_GC\\Bai3_GC.csproj": {}
+    "D:\\BTC_Sharp_GenericCollection\\Bai3_GC\\Bai3_GC\\Bai3_GC.csproj": {}
   },
   "projects": {
-    "D:\\Bai3_GC\\Bai3_GC\\Bai3_GC.csproj": {
+    "D:\\BTC_Sharp_GenericCollection\\Bai3_GC\\Bai3_GC\\Bai3_GC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bai3_GC\\Bai3_GC\\Bai3_GC.csproj",
+        "projectUniqueName": "D:\\BTC_Sharp_GenericCollection\\Bai3_GC\\Bai3_GC\\Bai3_GC.csproj",
         "projectName": "Bai3_GC",
-        "projectPath": "D:\\Bai3_GC\\Bai3_GC\\Bai3_GC.csproj",
+        "projectPath": "D:\\BTC_Sharp_GenericCollection\\Bai3_GC\\Bai3_GC\\Bai3_GC.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Bai3_GC\\Bai3_GC\\obj\\",
+        "outputPath": "D:\\BTC_Sharp_GenericCollection\\Bai3_GC\\Bai3_GC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

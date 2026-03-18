@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai3_GC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98570fa9a0ef218f9966226ab10a8d46f3946e98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai3_GC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai3_GC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
