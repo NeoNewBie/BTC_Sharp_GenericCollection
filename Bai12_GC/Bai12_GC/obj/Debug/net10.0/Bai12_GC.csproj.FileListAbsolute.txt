@@ -1,0 +1,14 @@
+D:\Bai12_GC\Bai12_GC\bin\Debug\net10.0\Bai12_GC.exe
+D:\Bai12_GC\Bai12_GC\bin\Debug\net10.0\Bai12_GC.deps.json
+D:\Bai12_GC\Bai12_GC\bin\Debug\net10.0\Bai12_GC.runtimeconfig.json
+D:\Bai12_GC\Bai12_GC\bin\Debug\net10.0\Bai12_GC.dll
+D:\Bai12_GC\Bai12_GC\bin\Debug\net10.0\Bai12_GC.pdb
+D:\Bai12_GC\Bai12_GC\obj\Debug\net10.0\Bai12_GC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai12_GC\Bai12_GC\obj\Debug\net10.0\Bai12_GC.AssemblyInfoInputs.cache
+D:\Bai12_GC\Bai12_GC\obj\Debug\net10.0\Bai12_GC.AssemblyInfo.cs
+D:\Bai12_GC\Bai12_GC\obj\Debug\net10.0\Bai12_GC.csproj.CoreCompileInputs.cache
+D:\Bai12_GC\Bai12_GC\obj\Debug\net10.0\Bai12_GC.dll
+D:\Bai12_GC\Bai12_GC\obj\Debug\net10.0\refint\Bai12_GC.dll
+D:\Bai12_GC\Bai12_GC\obj\Debug\net10.0\Bai12_GC.pdb
+D:\Bai12_GC\Bai12_GC\obj\Debug\net10.0\Bai12_GC.genruntimeconfig.cache
+D:\Bai12_GC\Bai12_GC\obj\Debug\net10.0\ref\Bai12_GC.dll
