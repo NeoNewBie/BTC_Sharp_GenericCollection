@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bai4_GC\\Bai4_GC\\Bai4_GC.csproj",
+      "projectUniqueName": "D:\\BTC_Sharp_GenericCollection\\Bai4_GC\\Bai4_GC\\Bai4_GC.csproj",
       "projectName": "Bai4_GC",
-      "projectPath": "D:\\Bai4_GC\\Bai4_GC\\Bai4_GC.csproj",
+      "projectPath": "D:\\BTC_Sharp_GenericCollection\\Bai4_GC\\Bai4_GC\\Bai4_GC.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\Bai4_GC\\Bai4_GC\\obj\\",
+      "outputPath": "D:\\BTC_Sharp_GenericCollection\\Bai4_GC\\Bai4_GC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
