@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Bai7_GC\\",
+  "WorkspaceRootPath": "D:\\BTC_Sharp_GenericCollection\\Bai7_GC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D22575B8-1BD0-4C22-904B-06DD72A9B6B1}|Bai7_GC\\Bai7_GC.csproj|d:\\bai7_gc\\bai7_gc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22575B8-1BD0-4C22-904B-06DD72A9B6B1}|Bai7_GC\\Bai7_GC.csproj|solutionrelative:bai7_gc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE27C5F0-00E5-CCEF-0148-57E7A0F1BC7C}|Bai7_GC\\Bai7_GC.csproj|d:\\btc_sharp_genericcollection\\bai7_gc\\bai7_gc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27C5F0-00E5-CCEF-0148-57E7A0F1BC7C}|Bai7_GC\\Bai7_GC.csproj|solutionrelative:bai7_gc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,10 +20,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Bai7_GC\\Bai7_GC\\Program.cs",
+              "DocumentMoniker": "D:\\BTC_Sharp_GenericCollection\\Bai7_GC\\Bai7_GC\\Program.cs",
               "RelativeDocumentMoniker": "Bai7_GC\\Program.cs",
-              "ToolTip": "D:\\Bai7_GC\\Bai7_GC\\Program.cs*",
-              "RelativeToolTip": "Bai7_GC\\Program.cs*",
+              "ToolTip": "D:\\BTC_Sharp_GenericCollection\\Bai7_GC\\Bai7_GC\\Program.cs",
+              "RelativeToolTip": "Bai7_GC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T16:14:00.605Z",
