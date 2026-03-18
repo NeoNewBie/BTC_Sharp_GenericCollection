@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai18_GC/1.0.0": {
+        "runtime": {
+          "Bai18_GC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai18_GC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
