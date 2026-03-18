@@ -17,3 +17,4 @@
 
         Console.WriteLine("----------------------------");
         Console.WriteLine($"Tong cac phan tu trong danh sach la: {tong}");
+Console.WriteLine("Lê Anh Quốc MSV: 2415053122234");
